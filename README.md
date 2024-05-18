@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there👋 This is Ziyi Wang
 
 <!--
 **ziyiwang726/ziyiwang726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+### 💌 About me:
+
+- 😄 Pronouns: she/her/hers
+- 🔭 I’m currently working on whole genome sequencing analysis
+- 💖 I like: travel, sports, nature, cooking, coffee
+- 🐶 I have a sweet mini Goldendoodle
+
+<img src="https://github.com/ziyiwang726/ziyiwang726/assets/56970449/eef8436b-33dd-4f23-8e3c-50f9477d31fe" width="20%" height="auto">
